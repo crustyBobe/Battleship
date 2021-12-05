@@ -1,0 +1,13 @@
+C:\Users\admin1\source\repos\KNeal3Battleship\bin\Debug\netcoreapp3.1\KNeal3Battleship.exe
+C:\Users\admin1\source\repos\KNeal3Battleship\bin\Debug\netcoreapp3.1\KNeal3Battleship.deps.json
+C:\Users\admin1\source\repos\KNeal3Battleship\bin\Debug\netcoreapp3.1\KNeal3Battleship.runtimeconfig.json
+C:\Users\admin1\source\repos\KNeal3Battleship\bin\Debug\netcoreapp3.1\KNeal3Battleship.runtimeconfig.dev.json
+C:\Users\admin1\source\repos\KNeal3Battleship\bin\Debug\netcoreapp3.1\KNeal3Battleship.dll
+C:\Users\admin1\source\repos\KNeal3Battleship\bin\Debug\netcoreapp3.1\KNeal3Battleship.pdb
+C:\Users\admin1\source\repos\KNeal3Battleship\obj\Debug\netcoreapp3.1\KNeal3Battleship.csprojAssemblyReference.cache
+C:\Users\admin1\source\repos\KNeal3Battleship\obj\Debug\netcoreapp3.1\KNeal3Battleship.AssemblyInfoInputs.cache
+C:\Users\admin1\source\repos\KNeal3Battleship\obj\Debug\netcoreapp3.1\KNeal3Battleship.AssemblyInfo.cs
+C:\Users\admin1\source\repos\KNeal3Battleship\obj\Debug\netcoreapp3.1\KNeal3Battleship.csproj.CoreCompileInputs.cache
+C:\Users\admin1\source\repos\KNeal3Battleship\obj\Debug\netcoreapp3.1\KNeal3Battleship.dll
+C:\Users\admin1\source\repos\KNeal3Battleship\obj\Debug\netcoreapp3.1\KNeal3Battleship.pdb
+C:\Users\admin1\source\repos\KNeal3Battleship\obj\Debug\netcoreapp3.1\KNeal3Battleship.genruntimeconfig.cache
